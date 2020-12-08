@@ -29,12 +29,18 @@ eligibility:
   checks:
     title: Eligibility
     checks:
-      - I am 18 or older.
-      - I have received care within the Mount Sinai Health System in the past.
-      - I can read and understand English.
-      - I am not currently pregnant.
-      - I am not currently a prisoner.
-      - I feel that pain, stress, mobility and/or sleep impact me in my daily life.
+      - check: I am 18 or older.
+        eligible: true
+      - check: I have received care within the Mount Sinai Health System in the past.
+        eligible: true
+      - check: I can read and understand English.
+        eligible: true
+      - check: I am not currently a prisoner.
+        eligible: true
+      - check: I am currently pregnant.
+        eligible: false
+      - check: I feel that pain, stress, mobility and/or sleep impact me in my daily life.
+        eligible: true
   completed:
     title: Eligibility
     image: /svgs/eligibility.svg
