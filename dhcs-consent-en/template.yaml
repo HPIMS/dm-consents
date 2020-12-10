@@ -35,7 +35,7 @@ eligibility:
         eligible: true
       - check: I can read and understand English.
         eligible: true
-      - check: I am a prisoner.
+      - check: I am currently a prisoner.
         eligible: false
       - check: I am currently pregnant.
         eligible: false
