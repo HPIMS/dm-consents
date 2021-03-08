@@ -194,7 +194,7 @@ quiz:
     - question: How are the data you provide and your personal health information stored?
       answers:
         - answer: |
-            Data will be labeled with your name and other identifiers, so that researchers will know who the data came from.
+            Data will be labeled with your name and other identifiers, so that researchers will know who the data came from
         - answer: |
             Data is tagged with a unique study number code so that only researchers with permission can trace it back to your identity
           correct: true
