@@ -11,14 +11,14 @@ defaults:
     exit: Exit
     share: Share
 welcome:
-  title: "DigiMe: Pain, Stress, Sleep Study"
+  title: "eHive: Pain, Stress, Sleep Study"
   image: /svgs/research.svg
   description: |
-    Our research team is inviting you to be a part of the DigiMe Pain, Stress, Sleep study. Our team is from the Hasso Plattner Institute for Digital Health at Mount Sinai. The main goal of this study is to use information provided by participants so that we can better understand how pain, stress, and sleep symptoms work together to affect your daily life. If you choose to join the study, we will combine your health information with wearable device data (e.g. Fitbit or Apple Watch, if available) to track symptoms and health outcomes. The study is called the DigiMe study because we are creating a digital understanding of your health.
+    Our research team is inviting you to be a part of the eHive Pain, Stress, Sleep study. Our team is from the Hasso Plattner Institute for Digital Health at Mount Sinai. The main goal of this study is to use information provided by participants so that we can better understand how pain, stress, and sleep symptoms work together to affect your daily life. If you choose to join the study, we will combine your health information with wearable device data (e.g. Fitbit or Apple Watch, if available) to track symptoms and health outcomes. The study is called the eHive study because we are creating a digital understanding of your health.
 
     By staying connected to the study, you can also participate in other digital studies on our platform in the future. The platform will not just act to collect your health information for research, but may also be used as a tool for yourself. By entering data, you can track your own health over time, possibly learning things that can lead you to live a healthier life.
 
-    Please take your time to read our consent form before making the choice whether or not you want to participate in our study. If you have any questions, concerns, or comments along the way, please stop and contact the study team at digime.pss@mssm.edu  before you sign the consent.
+    Please take your time to read our consent form before making the choice whether or not you want to participate in our study. If you have any questions, concerns, or comments along the way, please stop and contact the study team at ehive.pss@mssm.edu before you sign the consent.
 eligibility:
   introduction:
     title: Eligibility
@@ -65,7 +65,7 @@ information:
 
       The study will take place completely on your phone by using this app.
 
-      Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. This study will involve using the app for daily, weekly, biweekly, and monthly tasks that should only take a few minutes to complete each time, for a total of 30 minutes each week. Your participation lasts for as long as you want it to. We’d like you to be a part of the DigiMe study as long as you wish!
+      Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. This study will involve using the app for daily, weekly, biweekly, and monthly tasks that should only take a few minutes to complete each time, for a total of 30 minutes each week. Your participation lasts for as long as you want it to. We’d like you to be a part of the eHive study as long as you wish!
     description: |
       To participate in this study, we will ask you to:
 
@@ -77,7 +77,7 @@ information:
 
       The study will take place completely on your phone by using this app.
 
-      Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. This study will involve using the app for daily, weekly, biweekly, and monthly tasks that should only take a few minutes to complete each time, for a total of 30 minutes each week. Your participation lasts for as long as you want it to. We’d like you to be a part of the DigiMe study as long as you wish!
+      Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. This study will involve using the app for daily, weekly, biweekly, and monthly tasks that should only take a few minutes to complete each time, for a total of 30 minutes each week. Your participation lasts for as long as you want it to. We’d like you to be a part of the eHive study as long as you wish!
   - title: Privacy
     image: /svgs/privacy.svg
     summary: |
@@ -153,7 +153,7 @@ information:
   - title: Withdrawing
     image: /svgs/withdrawing.svg
     summary: |
-      There will be no penalty if you decide not to take part in this study. You can withdraw your consent and stop your participation at any time. To stop participating in the study at any time, choose “Leave Study” in the profile section, delete the “DigiMe” app from your phone, or contact the study team by email.
+      There will be no penalty if you decide not to take part in this study. You can withdraw your consent and stop your participation at any time. To stop participating in the study at any time, choose “Leave Study” in the profile section, delete the “eHive” app from your phone, or contact the study team by email.
     description: |
       If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. Data already shared or used for analysis also cannot be deleted. The study team may also withdraw you from the study at any time for any reason.
   - title: Confidentiality and Protected Information
@@ -178,7 +178,7 @@ quiz:
     image: /svgs/quiz.svg
     content: Now, we will give you a short quiz to make sure that you understand the study.
   questions:
-    - question: "The main purpose of the DigiMe: Pain Stress Sleep study is to"
+    - question: "The main purpose of the eHive: Pain Stress Sleep study is to"
       answers:
         - answer: |
             Collect, store, and study medical information and specimens you share with us digitally to learn more about complex
@@ -194,7 +194,7 @@ quiz:
     - question: How are the data you provide and your personal health information stored?
       answers:
         - answer: |
-            Data will be labeled with your name and other identifiers, so that researchers will know who the data came from.
+            Data will be labeled with your name and other identifiers, so that researchers will know who the data came from
         - answer: |
             Data is tagged with a unique study number code so that only researchers with permission can trace it back to your identity
           correct: true
