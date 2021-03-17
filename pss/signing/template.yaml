@@ -1,7 +1,7 @@
 ---
 consent:
   version: 1
-  author: HPIMS
+  author: ddp
 signing:
   title: Sign Consent
   review: Review Consent
