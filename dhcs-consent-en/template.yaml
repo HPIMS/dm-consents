@@ -37,6 +37,8 @@ eligibility:
         eligible: true
       - check: I am currently a prisoner.
         eligible: false
+      - check: I am currently pregnant.
+        eligible: false
       - check: I feel that pain, stress, mobility and/or sleep impact me in my daily life.
         eligible: true
   completed:
