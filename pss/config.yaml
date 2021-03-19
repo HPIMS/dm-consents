@@ -1,8 +1,8 @@
 ---
 consent:
   version: 1
-  author: HPIMS
-  id: hpims-dhcs-consent-en
+  author: ddp
+  id: ehive-pss
   lang: en
 fonts:
   default: Helvetica
