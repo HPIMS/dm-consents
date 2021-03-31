@@ -1,0 +1,27 @@
+---
+consent:
+  version: 1
+  author: ddp
+  id: ehive-warrior-shield
+  lang: en
+fonts:
+  default: Helvetica
+signing:
+  name:
+    fontSize: 26
+    page: 11
+    x: 62
+    y: 250
+    maxWidth: 270
+  date:
+    fontSize: 26
+    page: 11
+    x: 300
+    y: 250
+    format: MM.dd.yyyy
+  signature:
+    page: 11
+    x: 62
+    y: 150
+    maxWidth: 200
+    maxHeight: 80
