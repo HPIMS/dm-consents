@@ -11,14 +11,9 @@ defaults:
     exit: Exit
     share: Share
 welcome:
-  title: "eHive: Pain, Stress, Sleep Study"
+  title: "Mount Sinai Resilience Study"
   image: /svgs/research.svg
-  description: |
-    Our research team is inviting you to be a part of the eHive Pain, Stress, Sleep study. Our team is from the Hasso Plattner Institute for Digital Health at Mount Sinai. The main goal of this study is to use information provided by participants so that we can better understand how pain, stress, and sleep symptoms work together to affect your daily life. If you choose to join the study, we will combine your health information with wearable device data (e.g. Fitbit or Apple Watch, if available) to track symptoms and health outcomes. The study is called the eHive study because we are creating a digital understanding of your health.
-
-    By staying connected to the study, you can also participate in other digital studies on our platform in the future. The platform will not just act to collect your health information for research, but may also be used as a tool for yourself. By entering data, you can track your own health over time, possibly learning things that can lead you to live a healthier life.
-
-    Please take your time to read our consent form before making the choice whether or not you want to participate in our study. If you have any questions, concerns, or comments along the way, please stop and contact the study team at ehive.pss@mssm.edu before you sign the consent.
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eros enim, malesuada sit amet ex vitae, blandit vestibulum ipsum. Integer finibus a leo id hendrerit. Vestibulum mollis ligula eget odio dignissim maximus. Cras sapien felis, mollis eget accumsan in, pretium ut mauris. Vivamus id lorem pretium, egestas risus sed, vestibulum lacus. Curabitur eget enim eget purus pretium varius. Phasellus non mattis lorem. Praesent gravida tristique magna mattis varius. Quisque quis pellentesque eros. Sed auctor semper euismod. Sed at risus pharetra, semper turpis nec, rhoncus diam. Cras a est ac leo tempor placerat at in diam. Duis malesuada massa sit amet diam maximus bibendum. Sed commodo, libero ac lobortis tristique, tortor leo mattis libero, eu consequat eros libero at turpis. Integer quam dolor, dapibus sit amet diam eu, hendrerit feugiat enim. Vivamus quis consequat purus.
 eligibility:
   introduction:
     title: Eligibility
@@ -151,7 +146,7 @@ information:
   - title: Withdrawing
     image: /svgs/withdrawing.svg
     summary: |
-      There will be no penalty if you decide not to take part in this study. You can withdraw your consent and stop your participation at any time. To stop participating in the study at any time, choose “Leave Study” in the settings section, delete the “eHive” app from your phone, or contact the study team by email.
+      There will be no penalty if you decide not to take part in this study. You can withdraw your consent and stop your participation at any time. To stop participating in the study at any time, choose “Leave Study” in the profile section, delete the “eHive” app from your phone, or contact the study team by email.
     description: |
       If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. Data already shared or used for analysis also cannot be deleted. The study team may also withdraw you from the study at any time for any reason.
   - title: Confidentiality and Protected Information

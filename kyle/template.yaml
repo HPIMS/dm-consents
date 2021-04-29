@@ -11,7 +11,7 @@ defaults:
     exit: Exit
     share: Share
 welcome:
-  title: "eHive: Pain, Stress, Sleep Study"
+  title: "Kyle's super duper consent"
   image: /svgs/research.svg
   description: |
     Our research team is inviting you to be a part of the eHive Pain, Stress, Sleep study. Our team is from the Hasso Plattner Institute for Digital Health at Mount Sinai. The main goal of this study is to use information provided by participants so that we can better understand how pain, stress, and sleep symptoms work together to affect your daily life. If you choose to join the study, we will combine your health information with wearable device data (e.g. Fitbit or Apple Watch, if available) to track symptoms and health outcomes. The study is called the eHive study because we are creating a digital understanding of your health.
@@ -151,7 +151,7 @@ information:
   - title: Withdrawing
     image: /svgs/withdrawing.svg
     summary: |
-      There will be no penalty if you decide not to take part in this study. You can withdraw your consent and stop your participation at any time. To stop participating in the study at any time, choose “Leave Study” in the settings section, delete the “eHive” app from your phone, or contact the study team by email.
+      There will be no penalty if you decide not to take part in this study. You can withdraw your consent and stop your participation at any time. To stop participating in the study at any time, choose “Leave Study” in the profile section, delete the “eHive” app from your phone, or contact the study team by email.
     description: |
       If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. Data already shared or used for analysis also cannot be deleted. The study team may also withdraw you from the study at any time for any reason.
   - title: Confidentiality and Protected Information
