@@ -62,7 +62,7 @@ information:
   - title: We’ll test your understanding
     image: /svgs/quiz.svg
     summary: After reading about the study, we will give you a short quiz to make sure that you understand what is involved.
-    # description
+    description: ""
   - title: Study Tasks and Time Commitment
     image: /svgs/time.svg
     summary: |
@@ -87,7 +87,7 @@ information:
       This study will take place completely on your phone by using the Apple Watch, eHive app and HeartMath app. 
 
       Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. Your participation in this study will vary each day and may include up to 10 minutes of practice with the HeartMath intervention, answering less than 1 minute of survey questions per day, and some days watching short videos.    
-    # description:
+    description: ""
   - title: Privacy
     image: /svgs/privacy.svg
     summary: |
@@ -110,7 +110,7 @@ information:
     image: /svgs/scientific-databases.svg
     summary: |
       Some information from the analysis of your coded samples and your coded medical information like your age, sex, ethnic background, diagnosis and disease history, may be entered into one or more scientific databases available to other researchers inside and outside of Mount Sinai. Your identifiable information (e.g. name, phone number, medical record number) will never be added to a scientific database without your approval.
-    # description:
+    description: ""
   - title: Potential Benefits
     image: /svgs/benefits.svg
     summary: |
