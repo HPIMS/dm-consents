@@ -18,7 +18,7 @@ signing:
     x: 418
     y: 172
     fontSize: 14
-    maxWidth: 60
+    # maxWidth: 60
     format: MM.dd.yyyy
   signature:
     page: 9
