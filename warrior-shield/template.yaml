@@ -44,10 +44,10 @@ eligibility:
         eligible: true
       - check: I have an Apple Watch Series 4 or newer or am willing to wear an Apple Watch for the duration of the study.
         eligible: true
-      - check: I do not have an autoimmune disease such as rheumatoid arthritis, inflammatory bowel disease or lupus.
-        eligible: true
-      - check: I do not use medications that impact how my heart beats such as beta blockers (i.e. atenolol, carvedilol, metoprolol, Coreg, Tenormin, Normodyne, Trandate), digoxin, calcium channel blockers (i.e. Novasc, amlodipine, Cardene, nicrdipine, Procrdia, nifedipine, Cardizem, diltiazem), regularly used benzodiazepines.
-        eligible: true
+      - check: I have an autoimmune disease such as rheumatoid arthritis, inflammatory bowel disease or lupus.
+        eligible: false
+      - check: I use medications that impact how my heart beats such as beta blockers (i.e. atenolol, carvedilol, metoprolol, Coreg, Tenormin, Normodyne, Trandate), digoxin, calcium channel blockers (i.e. Novasc, amlodipine, Cardene, nicrdipine, Procrdia, nifedipine, Cardizem, diltiazem), regularly used benzodiazepines.
+        eligible: false
   completed:
     title: Eligibility
     image: /svgs/eligibility.svg
