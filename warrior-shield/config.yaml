@@ -8,20 +8,21 @@ fonts:
   default: Helvetica
 signing:
   name:
-    fontSize: 26
-    page: 11
-    x: 62
-    y: 250
-    maxWidth: 270
+    page: 9
+    x: 238
+    y: 175
+    fontSize: 12
+    maxWidth: 152
   date:
-    fontSize: 26
-    page: 11
-    x: 300
-    y: 250
+    page: 9
+    x: 418
+    y: 175
+    fontSize: 12
+    # maxWidth: 60
     format: MM.dd.yyyy
   signature:
-    page: 11
-    x: 62
-    y: 150
-    maxWidth: 200
-    maxHeight: 80
+    page: 9
+    x: 58
+    y: 175
+    maxWidth: 153
+    maxHeight: 30
