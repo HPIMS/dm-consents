@@ -26,6 +26,6 @@ signing:
   cancel:
     button: Cancel
     confirmHeader: Are you sure you want to exit the consent process?
-    confirmContent: If you exit, you will need to repeat the consent process before participating in the Kyle study.
+    confirmContent: If you exit, you will need to repeat the consent process before participating in the Decode BP study.
     confirmCancel: Yes
     rejectCancel: No
