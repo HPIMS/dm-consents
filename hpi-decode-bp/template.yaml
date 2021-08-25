@@ -11,43 +11,32 @@ defaults:
     exit: Exit
     share: Share
 welcome:
-  title: "Warrior Shield"
+  title: "Decode BP"
   image: /svgs/research.svg
   description: |
-    We are inviting you to participate in the Warrior Shield Study.
-    The main goal of this study is to understand how a breathing intervention
-    based on the HeartMath system improves the psychological well-being of
-    healthcare workers impacted by COVID-19. This study is collecting data
-    from your iphone and Apple Watch to look at the impact this intervention
-    has on stress, mental health and your physical well-being. 
+    We are inviting you to participate in the Decode BP Study. The main goal of this study is to compare blood pressure measurements from a blood pressure monitor to two wearable devices and evaluate the quality of the data. This study is collecting data from your smartphone and measurements from these devices.
 
-    If you are interested in learning more about joining this study,
-    this simple walk through will first see if you are eligible and
-    then highlight the details of what participation will involve. 
+    If you are interested in learning more about joining this study, this simple walk through will first check if you are eligible and then highlight the details of what participation will involve.
 eligibility:
   introduction:
     title: Eligibility
     image: /svgs/eligibility.svg
-    content: Before you take a look at the consent, we will need to determine if you meet the qualifications to join this study. Check the statements that apply to you and click next when finished. 
+    content: Before you take a look at the consent, we will need to determine if you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
     navigation:
       next: Start
   checks:
     title: Eligibility
     checks:
-      - check: I am 18 or older.
+      - check: I am older than 18 years old.
         eligible: true
-      - check: I am a healthcare worker in the Mount Sinai Hospital System (i.e. nurse, resident, PA, hospital maintenance, security etc.).
+      - check: I have normal or high-normal blood pressure (I am not diagnosed with hypertension and  the average of my 2 last blood pressure readings at two different doctor's encounters is lesser than (<) 140/90 mmHg). (If you have questions about this please contact our study email address).
         eligible: true
-      - check: I can read and comprehend English.
+      - check: I am not taking any anti-hypertensive medication.
         eligible: true
-      - check: I have a personal cell phone that is an iPhone 6s or newer.
+      - check: I can provide informed consent in English.
         eligible: true
-      - check: I have an Apple Watch Series 4 or newer or am willing to wear an Apple Watch for the duration of the study.
+      - check: I have a personal cell phone that has either iOS 13 or greater, or Android 7 (Nougat) or greater.
         eligible: true
-      - check: I have an autoimmune disease such as rheumatoid arthritis, inflammatory bowel disease or lupus.
-        eligible: false
-      - check: I use medications that impact how my heart beats such as beta blockers (i.e. atenolol, carvedilol, metoprolol, Coreg, Tenormin, Normodyne, Trandate), digoxin, calcium channel blockers (i.e. Novasc, amlodipine, Cardene, nicrdipine, Procrdia, nifedipine, Cardizem, diltiazem), regularly used benzodiazepines.
-        eligible: false
   completed:
     title: Eligibility
     image: /svgs/eligibility.svg
@@ -61,32 +50,24 @@ eligibility:
 information:
   - title: We’ll test your understanding
     image: /svgs/quiz.svg
-    summary: After reading about the study, we will give you a short quiz to make sure that you understand what is involved.
+    summary: After reading about the study, we will give you a short quiz to make sure that you understand what is involved. You can go back and forth in these pages to re-read anything or contact our study email address with any questions.
     description: ""
   - title: Study Tasks and Time Commitment
     image: /svgs/time.svg
     summary: |
       To participate in this study, we will ask you to:
       
-      •	Connect your Apple Watch to the eHive app (if you don’t  have an Apple Watch you will be provided with one)
+      •	Connect the blood pressure monitor and the wearable devices you were given to the study app
       
       •	Complete study surveys in the eHive app
       
-      •	Watch short videos each week that are in the eHive app to learn about the interventions we are using and how to apply them to your life
-      
-      •	Download the HeartMath app and use the provided ear sensor which will be sent to you
-      
-      •	Use the Heartmath app with the ear sensor for 5 minutes each day, for 5 weeks.
-      
-      •	Apply the techniques you learn during these sessions to your day-to-day life.
-      
-      •	Continue to answer questions in the eHive app for 17 weeks after you begin the intervention
+      •	Watch short videos that instruct you on how to use your blood pressure monitor and wearable devices
 
-      You will start using the HeartMath app and intervention after you have worn your Apple Watch for 7 days.
+      You will start using the eHive app and entering your measurements after you have received your blood pressure monitor and wearable devices.
 
-      This study will take place completely on your phone by using the Apple Watch, eHive app and HeartMath app. 
+      This study will take place completely on your phone by using the blood pressure monitor, wearable devices and the eHive app.
 
-      Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. Your participation in this study will vary each day and may include up to 5 minutes of practice with the HeartMath intervention, answering less than 1 minute of survey questions per day, and some days watching short videos.    
+      Registering for the study and answering the first set of questions should take about 10 minutes. You can stop and restart where you left off at any time. Your participation in this study will take a few minutes each day and may include up to 10 minutes of practice with the blood pressure monitor and wearable devices to make sure they are set up right, answering less than 1 minute of survey questions per day, and some days watching the short videos.  
     description: ""
   - title: Privacy
     image: /svgs/privacy.svg
@@ -97,9 +78,9 @@ information:
   - title: Data Collection and Use
     image: /svgs/data-collection.svg
     summary: |
-      There are sensors in your phone that can help assess activity, plus HealthKit on your phone which will store activity data. Additionally, you will be asked to sync your Apple Watch with the study application and download the HeartMath App. This is a requirement for participation in this study. We may follow up with a phone call from the study team after you’ve consented and registered for the study if these are not done. We may also collect data from your medical record at Mount Sinai for research purposes only. Your contact information will be stored so we can re-contact you about future research studies. Your contact information will not be used directly for the research. We will gather data from HeartMath that allows us to assess whether you have been compliant with the intervention. Learn more about how data is gathered and used. 
+      You will be asked to sync your blood pressure monitor and wearable devices with the eHive app. This is a requirement for participation in this study. We may follow up with a phone call from the study team after you’ve consented and registered for the study if these are not done. Your contact information will be stored so we can re-contact you about future research studies, but this will not be linked to any health information you share with us for this study. Your contact information will not be used directly for the research. We will gather data from your study activities that allows us to assess whether you have been compliant with the study steps. Learn more about how data is gathered and used.
     description: |
-      This study can also gather sensor data from your phone and your Apple Watch with your permission. You can choose not to do this and still participate in the study. We will NOT access your personal contacts, other applications, text messages, personal photos or websites visited. If you don’t wish to be re-contacted, you can use a toggle built into the app to opt out. By signing this consent, you are giving permission to connect your survey, HeartMath and device data to the information in your health record, pulled from different Mount Sinai data registries. Data used may also include genetics data, for instance, if you’ve participated or will participate in the BioMe biobank program at Mount Sinai. You are also giving permission for other researchers to access your data without identifiers, for future unrestricted research. This would be in a coded fashion, where your identifiers are masked and replaced with a unique code. 
+      We will NOT access your personal contacts, other applications, text messages, personal photos or websites visited. If you don’t wish to be re-contacted, you can use a toggle built into the app to opt out. By signing this consent, you are giving permission to connect your survey, and device data. You are also giving permission for other researchers to access your data without identifiers, for future unrestricted research. This would be in a coded fashion, where your identifiers are masked and replaced with a unique code.
   - title: Re-Contacting
     image: /svgs/recontacting.svg
     summary: |
@@ -109,22 +90,22 @@ information:
   - title: Scientific Databases
     image: /svgs/scientific-databases.svg
     summary: |
-      Some information from the analysis of your coded samples and your coded medical information like your age, sex, ethnic background, diagnosis and disease history, may be entered into one or more scientific databases available to other researchers inside and outside of Mount Sinai. Your identifiable information (e.g. name, phone number, medical record number) will never be added to a scientific database without your approval.
+      Some information from the analysis of your coded samples and your coded medical information like your age, sex, bmi, ethnic background, diagnosis and disease history, may be entered into one or more scientific databases available to other researchers inside and outside of Mount Sinai. Your identifiable information (e.g. name, phone number, medical record number) will never be added to a scientific database without your approval.
     description: ""
   - title: Potential Benefits
     image: /svgs/benefits.svg
     summary: |
       This study may not benefit participants or society. 
 
-      After the second week of participation, you will receive a $25 gift card. You will receive a second $25 gift card after six weeks of participation.
+      You will receive $25 after your first day participating in the study with the BP reading, every time you enter a blood pressure measurement. After you return the blood pressure devices via USPS, you will receive a second $25 gift card. If you are fully compliant with the study tasks over the course of the week, you will earn $50 total.
     description: |
-      The intervention being studied is designed to reduce stress, build resilience and improve mental well-being. Features of the study application and data we collect may help us understand who is most likely to benefit from this intervention in the future as we try to improve the psychological impact of COVID-19.
+      Features of the study application and data we collect may help us understand who is most likely to benefit from this intervention in the future as we try to understand and improve blood pressure measurements from off the shelf wearable devices.
   - title: Potential Risks
     image: /svgs/risk.svg
     summary: |
       There always exists the potential for loss of private information.
     description: |
-      There are procedures in place to minimize this risk. It is also possible that the application’s presence on your iPhone may be observed by someone other than the participant seeing an alert or reminder on their smartphone. Information on how we store your data may be found in the privacy section. 
+      There are procedures in place to minimize this risk. It is also possible that the application’s presence on your phone may be observed by someone other than the participant seeing an alert or reminder on their smartphone. Information on how we store your data may be found in the privacy section.
 
       You may incur standard data charges when using our app, depending on your service carrier.
   - title: Withdrawing
@@ -134,13 +115,13 @@ information:
       
       Learn more about withdrawing.
     description: |
-      There will be no penalty to you if you decide not to take part in this study. To stop being in the study at any time, delete the app from your phone and/or contact the study team by email. If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. The study team may also withdraw you from the study at any time for any reason. If you withdraw from the study you will be asked to return the Apple Watch and HeartMath sensor.
+      There will be no penalty to you if you decide not to take part in this study. To stop being in the study at any time, delete the app from your phone and/or contact the study team by email. If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. The study team may also withdraw you from the study at any time for any reason. If you withdraw from the study you will be asked to return the blood pressure monitor and wearable devices.
   - title: Confidentiality and Protected Information
     image: /svgs/confidentiality.svg
     summary: |
       As you take part in this research study, it will be necessary for the research team and others to use and share some of your private protected health information. Protected Health Information (PHI) include, for example: your name, address, telephone number, medical record number, date of birth, family history, your medical record, blood draw sample, etc.
 
-      Your health information, along with results of any tests/procedures collected as part of this research study or regular clinical care, will be used for this study as explained earlier in this consent process. The results of this study could be published or presented at scientific meetings, lectures, etc., but would not include any information that would let others know who you are, unless you give separate permission to do so. 
+      Your health information, along with results of any tests/procedures collected as part of this research study or regular clinical care, will be used for this study as explained earlier in this consent process. The results of this study could be published or presented at scientific meetings, lectures, etc., but would not include any information that would let others know who you are, unless you give separate permission to do so.
     description: |
       Consistent with the federal Health Insurance Portability and Accountability Act (HIPAA), we are asking your permission to receive, use and share your Protected Health Information.
 
@@ -157,14 +138,13 @@ quiz:
     image: /svgs/quiz.svg
     content: Now, we will give you a short quiz to make sure that you understand the study.
   questions:
-    - question: The main purpose of the Warrior Shield study is to
+    - question: The main purpose of the Decode BP study is to
       answers:
-        - answer: To study a digital intervention aimed at improving psychological health, well-being, stress and its effect on your nervous system.
+        - answer: To study blood pressure measurements based on data extracted from wearable devices
           correct: true
-        - answer: To provide you with genetic information from the information you provide.
-        - answer: To provide your doctor with medical information obtained from all the information you provide us through the app.
+        - answer: To provide you with genetic information from the information you provide. To provide your doctor with medical information obtained from all the information you provide us through the app.
         - answer: To provide your health insurer with medical information obtained from your data and family/medical history questionnaires.
-    - question: How are the data you provide and your personal health information stored?
+    - question: How are the data you provide and your personal health information stored? 
       answers:
         - answer: Data will be labeled with your name and other identifiers, so that researchers will know who the data came from.
         - answer: Data is tagged with a unique study number code so that only researchers with permission can trace it back to your identity.
