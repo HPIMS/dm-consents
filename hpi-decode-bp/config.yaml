@@ -10,18 +10,18 @@ signing:
   name:
     page: 9
     x: 238
-    y: 175
+    y: 440
     fontSize: 12
     maxWidth: 152
   date:
     page: 9
     x: 418
-    y: 175
+    y: 440
     fontSize: 12
     format: MM.dd.yyyy
   signature:
     page: 9
     x: 58
-    y: 175
+    y: 440
     maxWidth: 153
     maxHeight: 30

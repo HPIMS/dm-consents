@@ -31,8 +31,8 @@ eligibility:
         eligible: true
       - check: I have normal or high-normal blood pressure (I am not diagnosed with hypertension and  the average of my 2 last blood pressure readings at two different doctor's encounters is lesser than (<) 140/90 mmHg). (If you have questions about this please contact our study email address).
         eligible: true
-      - check: I am not taking any anti-hypertensive medication.
-        eligible: true
+      - check: I am currently taking any anti-hypertensive medication.
+        eligible: false
       - check: I can provide informed consent in English.
         eligible: true
       - check: I have a personal cell phone that has either iOS 13 or greater, or Android 7 (Nougat) or greater.
@@ -56,18 +56,18 @@ information:
     image: /svgs/time.svg
     summary: |
       To participate in this study, we will ask you to:
-      
+
       •	Connect the blood pressure monitor and the wearable devices you were given to the study app
-      
+
       •	Complete study surveys in the eHive app
-      
+
       •	Watch short videos that instruct you on how to use your blood pressure monitor and wearable devices
 
       You will start using the eHive app and entering your measurements after you have received your blood pressure monitor and wearable devices.
 
       This study will take place completely on your phone by using the blood pressure monitor, wearable devices and the eHive app.
 
-      Registering for the study and answering the first set of questions should take about 10 minutes. You can stop and restart where you left off at any time. Your participation in this study will take a few minutes each day and may include up to 10 minutes of practice with the blood pressure monitor and wearable devices to make sure they are set up right, answering less than 1 minute of survey questions per day, and some days watching the short videos.  
+      Registering for the study and answering the first set of questions should take about 10 minutes. You can stop and restart where you left off at any time. Your participation in this study will take a few minutes each day and may include up to 10 minutes of practice with the blood pressure monitor and wearable devices to make sure they are set up right, answering less than 1 minute of survey questions per day, and some days watching the short videos.
     description: ""
   - title: Privacy
     image: /svgs/privacy.svg
@@ -112,7 +112,7 @@ information:
     image: /svgs/withdrawing.svg
     summary: |
       There will be no penalty if you decide not to take part in this study. You can withdraw your consent and discontinue participation at any time.
-      
+
       Learn more about withdrawing.
     description: |
       There will be no penalty to you if you decide not to take part in this study. To stop being in the study at any time, delete the app from your phone and/or contact the study team by email. If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. The study team may also withdraw you from the study at any time for any reason. If you withdraw from the study you will be asked to return the blood pressure monitor and wearable devices.
@@ -134,7 +134,7 @@ information:
       The research team and other authorized members of The Mount Sinai Health System ("Mount Sinai") workforce may use and share your information to ensure that the research meets legal, institutional or accreditation requirements. For example, the School’s Program for the Protection of Human Subjects is responsible for overseeing research on human subjects and may need to see your information. If you receive any payments for taking part in this study, the Mount Sinai Finance Department may need your name, address, social security number, payment amount, and related information for tax reporting purposes. If the research team uncovers abuse, neglect, or reportable diseases, this information may be disclosed to appropriate authorities.
 quiz:
   introduction:
-    title: Comprehension Quiz 
+    title: Comprehension Quiz
     image: /svgs/quiz.svg
     content: Now, we will give you a short quiz to make sure that you understand the study.
   questions:
@@ -144,7 +144,7 @@ quiz:
           correct: true
         - answer: To provide you with genetic information from the information you provide. To provide your doctor with medical information obtained from all the information you provide us through the app.
         - answer: To provide your health insurer with medical information obtained from your data and family/medical history questionnaires.
-    - question: How are the data you provide and your personal health information stored? 
+    - question: How are the data you provide and your personal health information stored?
       answers:
         - answer: Data will be labeled with your name and other identifiers, so that researchers will know who the data came from.
         - answer: Data is tagged with a unique study number code so that only researchers with permission can trace it back to your identity.
