@@ -31,7 +31,7 @@ eligibility:
         eligible: true
       - check: I have normal or high-normal blood pressure (I am not diagnosed with hypertension and  the average of my 2 last blood pressure readings at two different doctor's encounters is lesser than (<) 140/90 mmHg). (If you have questions about this please contact our study email address).
         eligible: true
-      - check: I am currently taking any anti-hypertensive medication.
+      - check: I am currently taking anti-hypertensive medication.
         eligible: false
       - check: I can provide informed consent in English.
         eligible: true
