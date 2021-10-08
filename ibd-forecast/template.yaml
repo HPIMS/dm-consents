@@ -11,7 +11,7 @@ defaults:
     exit: Exit
     share: Share
 welcome:
-  title: "IBD Forecast"
+  title: IBD Forecast
   image: /svgs/research.svg
   description: |
     We are inviting you to participate in the My IBDigital Flare study. The main goal of this study is to study whether markers from wearable devices can predict flares or worsening of inflammatory bowel disease. This study is collecting data from survey questions and your wearable device. If you have an iPhone you can choose to share any electronic health record data. This is optional.
