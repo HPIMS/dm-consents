@@ -26,6 +26,6 @@ signing:
   cancel:
     button: Cancel
     confirmHeader: Are you sure you want to exit the consent process?
-    confirmContent: If you exit, you will need to repeat the consent process before participating in the DigiMe study.
+    confirmContent: If you exit, you will need to repeat the consent process before participating in the Pain, Stress, Sleep study.
     confirmCancel: Yes
     rejectCancel: No
