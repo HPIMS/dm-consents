@@ -180,7 +180,7 @@ quiz:
         - answer: Researchers may contact you to let you know of other researchers studies your sample has been included in.
   failed:
     title: Quiz
-    content: We're sorry. After numerous attempts, you did not answer the quiz correctly - you may not participate in this study. We appreciate your interest. Please keep an eye out for other studies you may be eligible for.
+    content: We're sorry. After numerous attempts, you did not answer the quiz correctly. You may restart the consent process and try again. If you have questions about the study or consent, contact the study team via the link on the Studies page.
     navigation:
       next: Exit
 confirm:
