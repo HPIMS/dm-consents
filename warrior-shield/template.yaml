@@ -28,7 +28,10 @@ eligibility:
   introduction:
     title: Eligibility
     image: /svgs/eligibility.svg
-    content: Before you take a look at the consent, we will need to determine if you meet the qualifications to join this study. Check the statements that apply to you and click next when finished. 
+    content: |
+      Before you take a look at the consent, we will need to determine if you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
+
+      This determines your eligibility for the study, but we do not record your answers or link them to your name.
     navigation:
       next: Start
   checks:
