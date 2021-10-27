@@ -23,7 +23,10 @@ eligibility:
   introduction:
     title: Eligibility
     image: /svgs/eligibility.svg
-    content: Before you take a look at the consent, we will need to make sure you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
+    content: |
+      Before you take a look at the consent, we will need to make sure you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
+
+      This determines your eligibility for the study, but we do not record your answers or link them to your name.
     navigation:
       next: Start
   checks:
@@ -213,7 +216,7 @@ quiz:
             Researchers may contact you to let you know of other researchers' studies your sample has been included in
   failed:
     title: Quiz
-    content: We’re sorry. After numerous attempts, you did not answer the quiz correctly. If you are interested in participating in this study, please repeat the consent review process.
+    content: We're sorry. After numerous attempts, you did not answer the quiz correctly. You may restart the consent process and try again. If you have questions about the study or consent, contact the study team via the link on the Studies page.
     navigation:
       next: Exit
 confirm:
