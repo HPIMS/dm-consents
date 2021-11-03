@@ -20,7 +20,7 @@ signing:
   conditions:
     - text: I understand this is a legal representation of my signature.
       required: true
-    - text: Your signature confirms that you have reviewed the consent and information provided to you and that you have had all your questions answered to your satisfaction. Your signature also documents your permission to take part in this research and to the use and disclosure of your protected health information. A signed and dated copy will be given to you.
+    - text: My signature confirms that I ﻿reviewed the consent and have had any questions answered to my satisfaction. My signature documents my agreement to take part in this study and to the use and disclosure of my health information.
       required: true
   submit: Sign
   cancel:
