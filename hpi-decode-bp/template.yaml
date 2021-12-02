@@ -15,7 +15,7 @@ welcome:
   image: /svgs/research.svg
   description: |
     We are inviting you to participate in the Decode BP Study. The main goal of this study is to compare blood pressure measurements from a blood pressure monitor to two wearable devices and evaluate the quality of the data. This study is collecting data from your smartphone and measurements from these devices.
-
+    <br><br>
     If you are interested in learning more about joining this study, this simple walk through will first check if you are eligible and then highlight the details of what participation will involve.
 eligibility:
   introduction:
@@ -23,7 +23,7 @@ eligibility:
     image: /svgs/eligibility.svg
     content: |
       Before you take a look at the consent, we will need to determine if you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
-
+      <br><br>
       This determines your eligibility for the study, but we do not record your answers or link them to your name.
     navigation:
       next: Start
@@ -59,17 +59,17 @@ information:
     image: /svgs/time.svg
     summary: |
       To participate in this study, we will ask you to:
-
+      <br><br>
       •	Connect the blood pressure monitor and the wearable devices you were given to the study app
-
+      <br><br>
       •	Complete study surveys in the eHive app
-
+      <br><br>
       •	Watch short videos that instruct you on how to use your blood pressure monitor and wearable devices
-
+      <br><br>
       You will start using the eHive app and entering your measurements after you have received your blood pressure monitor and wearable devices.
-
+      <br><br>
       This study will take place completely on your phone by using the blood pressure monitor, wearable devices and the eHive app.
-
+      <br><br>
       Registering for the study and answering the first set of questions should take about 10 minutes. You can stop and restart where you left off at any time. Your participation in this study will take a few minutes each day and may include up to 10 minutes of practice with the blood pressure monitor and wearable devices to make sure they are set up right, answering less than 1 minute of survey questions per day, and some days watching the short videos.
     description: ""
   - title: Privacy
@@ -99,7 +99,7 @@ information:
     image: /svgs/benefits.svg
     summary: |
       This study may not benefit participants or society.
-
+      <br><br>
       If you are fully compliant with the study tasks over the course of the week you will earn $50 total in gift cards. You will receive the first $25 gift card after your first day participating in the study. After you return all devices via USPS you will receive a second $25 gift card.
     description: |
       Features of the study application and data we collect may help us understand who is most likely to benefit from this intervention in the future as we try to understand and improve blood pressure measurements from off the shelf wearable devices.
@@ -109,13 +109,13 @@ information:
       There always exists the potential for loss of private information.
     description: |
       There are procedures in place to minimize this risk. It is also possible that the application’s presence on your phone may be observed by someone other than the participant seeing an alert or reminder on their smartphone. Information on how we store your data may be found in the privacy section.
-
+      <br><br>
       You may incur standard data charges when using our app, depending on your service carrier.
   - title: Withdrawing
     image: /svgs/withdrawing.svg
     summary: |
       There will be no penalty if you decide not to take part in this study. You can withdraw your consent and discontinue participation at any time.
-
+      <br><br>
       Learn more about withdrawing.
     description: |
       There will be no penalty to you if you decide not to take part in this study. To stop being in the study at any time, delete the app from your phone and/or contact the study team by email. If you withdraw from the study, we will stop collecting new data, but any data already collected will remain as part of the study. The study team may also withdraw you from the study at any time for any reason. If you withdraw from the study you will be asked to return the blood pressure monitor and wearable devices.
@@ -123,17 +123,17 @@ information:
     image: /svgs/confidentiality.svg
     summary: |
       As you take part in this research study, it will be necessary for the research team and others to use and share some of your private protected health information. Protected Health Information (PHI) include, for example: your name, address, telephone number, medical record number, date of birth, family history, your medical record, blood draw sample, etc.
-
+      <br><br>
       Your health information, along with results of any tests/procedures collected as part of this research study or regular clinical care, will be used for this study as explained earlier in this consent process. The results of this study could be published or presented at scientific meetings, lectures, etc., but would not include any information that would let others know who you are, unless you give separate permission to do so.
     description: |
       Consistent with the federal Health Insurance Portability and Accountability Act (HIPAA), we are asking your permission to receive, use and share your Protected Health Information.
-
+      <br><br>
       Your authorization for the use of your protected health information for this specific study does not expire.
-
+      <br><br>
       During your participation in this study, you will have access to your medical record and any study information that is part of that record. The investigator is not required to release to you research information that is not part of your medical record.
-
+      <br><br>
       If you are authorizing the release of HIV-related information, you should be aware that the recipient(s) is (are) prohibited from re-disclosing any HIV-related information without your authorization unless permitted to do so under federal or state law.
-
+      <br><br>
       The research team and other authorized members of The Mount Sinai Health System ("Mount Sinai") workforce may use and share your information to ensure that the research meets legal, institutional or accreditation requirements. For example, the School’s Program for the Protection of Human Subjects is responsible for overseeing research on human subjects and may need to see your information. If you receive any payments for taking part in this study, the Mount Sinai Finance Department may need your name, address, social security number, payment amount, and related information for tax reporting purposes. If the research team uncovers abuse, neglect, or reportable diseases, this information may be disclosed to appropriate authorities.
 quiz:
   introduction:
