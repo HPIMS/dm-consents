@@ -120,3 +120,7 @@ input:focus + .slider {
 
 .option-text-accept {
 }
+
+li:not(:last-child) {
+   margin-bottom: 5px;
+}
