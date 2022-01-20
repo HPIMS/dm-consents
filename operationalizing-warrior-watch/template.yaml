@@ -11,7 +11,7 @@ defaults:
     exit: Exit
     share: Share
 welcome:
-  title: Operationalizing Warrior Watch
+  title: Operationalizing Warrior Watch a SARS-CoV-2 Digital Surveillance Program
   image: /svgs/research.svg
   description: |
     We are inviting you to participate in the Warrior Shield Study.

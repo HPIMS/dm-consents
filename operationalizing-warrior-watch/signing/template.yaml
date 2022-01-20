@@ -20,12 +20,12 @@ signing:
   conditions:
     - text: I understand this is a legal representation of my signature.
       required: true
-    - text: I understand the study information provided in the consent document and agree to participate in the study.
+    - text: I understand the study information provided in the consent document and agree to participate in the SARS-CoV-2 Digital Surveillance Program.
       required: true
   submit: Sign
   cancel:
     button: Cancel
     confirmHeader: Are you sure you want to exit the consent process?
-    confirmContent: If you exit, you will need to repeat the consent process before participating in the Warrior Shield study.
+    confirmContent: If you exit, you will need to repeat the consent process before participating in the SARS-CoV-2 Digital Surveillance Program.
     confirmCancel: Yes
     rejectCancel: No
