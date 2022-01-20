@@ -71,11 +71,3 @@ information:
 
       • Let us know if you test positive or negative for COVID-19 and if you have any symptoms.       
     description: ""
-confirm:
-  title: Stop and Review
-  image: /svgs/stop-hpims.svg
-  content: |
-    Please take a moment before you sign the consent to review it or discuss it with others. You can also print out the consent form to review it if you’d like. Make sure you feel confident about joining the study and understand what is being asked of you. If you do have any additional questions or concerns, please email the study team by clicking “Ask a question”.
-review:
-  type: external
-  source: /review.html
