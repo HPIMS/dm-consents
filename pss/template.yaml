@@ -15,9 +15,9 @@ welcome:
   image: /svgs/research.svg
   description: |
     Our research team is inviting you to be a part of the eHive Pain, Stress, Sleep study. Our team is from the Hasso Plattner Institute for Digital Health at Mount Sinai. The main goal of this study is to use information provided by participants so that we can better understand how pain, stress, and sleep symptoms work together to affect your daily life. If you choose to join the study, we will combine your health information with wearable device data (e.g. Fitbit or Apple Watch, if available) to track symptoms and health outcomes. The study is called the eHive study because we are creating a digital understanding of your health.
-
+    <br><br>
     By staying connected to the study, you can also participate in other digital studies on our platform in the future. The platform will not just act to collect your health information for research, but may also be used as a tool for yourself. By entering data, you can track your own health over time, possibly learning things that can lead you to live a healthier life.
-
+    <br><br>
     Please take your time to read our consent form before making the choice whether or not you want to participate in our study. If you have any questions, concerns, or comments along the way, please stop and contact the study team at ehive.pss@mssm.edu before you sign the consent.
 eligibility:
   introduction:
@@ -25,7 +25,7 @@ eligibility:
     image: /svgs/eligibility.svg
     content: |
       Before you take a look at the consent, we will need to make sure you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
-
+      <br><br>
       This determines your eligibility for the study, but we do not record your answers or link them to your name.
     navigation:
       next: Start
@@ -57,39 +57,35 @@ information:
     image: /svgs/time.svg
     summary: |
       To participate in this study, we will ask you to:
-
-      • Download and install the digital study app
-
-      • Connect your wearable devices to the digital study app (if you have any)
-
-      • Complete study surveys and tasks through the app on a recurring basis
-
+      <ul>
+      <li>Download and install the digital study app</li>
+      <li>Connect your wearable devices to the digital study app (if you have any)</li>
+      <li>Complete study surveys and tasks through the app on a recurring basis</li>
+      </ul>
       The study will take place completely on your phone by using this app.
-
+      <br><br>
       Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. This study will involve using the app for daily, weekly, biweekly, and monthly tasks that should only take a few minutes to complete each time, for a total of 30 minutes each week. Your participation lasts for as long as you want it to. We’d like you to be a part of the eHive study as long as you wish!
     description: |
       To participate in this study, we will ask you to:
-
-      • Download and install the digital study app
-
-      • Connect your wearable devices to the digital study app (if you have any)
-
-      • Complete study surveys and tasks through the app on a recurring basis
-
+      <ul>
+      <li>Download and install the digital study app</li>
+      <li>Connect your wearable devices to the digital study app (if you have any)</li>
+      <li>Complete study surveys and tasks through the app on a recurring basis</li>
+      </ul>
       The study will take place completely on your phone by using this app.
-
+      <br><br>
       Registering for the study and answering the first set of questions should take about 15 minutes. You can stop and restart where you left off at any time. This study will involve using the app for daily, weekly, biweekly, and monthly tasks that should only take a few minutes to complete each time, for a total of 30 minutes each week. Your participation lasts for as long as you want it to. We’d like you to be a part of the eHive study as long as you wish!
   - title: Privacy
     image: /svgs/privacy.svg
     summary: |
       To protect your privacy, we will use a random code instead of your name on your study data.
-
+      <br><br>
       Learn more about how your privacy and identity are protected.
     description: |
       We will work hard to protect your privacy. A random code will be used on all your study data instead of your name or other information that could identify you. This means researchers can analyze the data without knowing who you are.
-
+      <br><br>
       Your study data will be stored in a way that keeps your information as safe as possible and prevents unauthorized people from getting to your data. Even with the removal of your personal information and these procedures, it is sometimes possible to re-identify an individual. This risk, while very low, should still be considered before enrolling
-
+      <br><br>
       Please note that it may become necessary for the research team and others to use and share some of your private protected health information. Protected Health Information includes your name, address, telephone number, medical record number, social security number, date of birth, information from the family history questionnaire, and your medical record.
   - title: Data Collection
     image: /svgs/data-collection.svg
@@ -97,41 +93,41 @@ information:
       With your permission, this study will collect location and sensor data from your phone and wearable devices (such as Fitbit or Apple Watch). You can still participate in the study if you choose not to share this information.
     description: |
       There are sensors in your phone that can help measure activity, such as step count. Additionally, for those with an iphone, the Apple Health app can store health and activity data from other devices.
-
+      <br><br>
       You will be asked to sync your device with our study application. We will NOT access your personal contacts, other applications, text messages, personal photos or websites visited if you share this data with us.
   - title: Data Use
     image: /svgs/data-use.svg
     summary: |
       By agreeing to participate in this study, you are giving permission for your medical information to be stored and used for future research, related or unrelated to your medical condition, by investigators  here at Mount Sinai and outside of Mount Sinai. This pertains to the health information about you available in your medical record.
-
+      <br><br>
       This may also include genetics data if you’ve participated or will participate in the BioMe biobank program at Mount Sinai that collects a blood sample from you to do genetics research.
     description: |
       Most of the future research will be done without having to know who you are. This means when we do future research with your data, we will not need to look up the code linked to your name to see who the information and sample came from.
-
+      <br><br>
       In some cases, researchers may contact you if future research requires that we know who the sample came from or requires collection of additional information about you.
-
+      <br><br>
       If this is the case, it means we will have to look up the code to see who the information and sample came from. By signing this consent form, you are giving permission to be contacted in the future about this and other research studies.
   - title: Re-Contacting
     image: /svgs/recontacting.svg
     summary: |
       Researchers may contact you if they want more information from you in addition to the data you’ve already provided here. This is because they might apply to do a study for which they may also need to contact you. For example, they may ask you to provide more information, download another study app, fill out a survey or do a phone interview.
-
+      <br><br>
       Study investigators may also contact you as needed for information on other digital studies that you may want to participate in, and study/mobile app feedback upon your consent into this study.
     description: |
       If a new study is approved that fits this description, you will be contacted about the study so you can decide if you want to participate and receive more information. There may be a new consent process just for that study.
-
+      <br><br>
       The study team may ask permission to contact you if needed for further information. For some things, you can choose to opt out of being contacted by the study team. But for other things, opting out of contact may affect whether you can stay in the study.
-
+      <br><br>
       If we find that contacting you is not practical, for example because you have moved; we may still use your identified blood and medical information. We will first ask the Institutional Review Board (ethics board) for permission.
   - title: Scientific Databases
     image: /svgs/scientific-databases.svg
     summary: |
       Some information from the analysis of your coded samples, like your genetic information, and your coded medical information like your age, sex, ethnic background, diagnosis and disease history, may be entered into one or more scientific databases available to other researchers inside and outside of Mount Sinai.
-
+      <br><br>
       Your identifiable information (e.g. name, phone number, medical record number) will never be added to a scientific database without your approval.
     description: |
       Some information from the analysis of your coded samples, like your genetic information, and your coded medical information like your age, sex, ethnic background, diagnosis and disease history, may be entered into one or more scientific databases available to other researchers inside and outside of Mount Sinai.
-
+      <br><br>
       Your identifiable information (e.g. name, phone number, medical record number) will never be added to a scientific database without your approval.
   - title: Potential Benefits
     image: /svgs/benefits.svg
@@ -145,11 +141,11 @@ information:
       There is a risk of loss of private information. This means that the data you share may be taken by unauthorized users. This risk always exists, but there are procedures in place to minimize the risk. However, if this happened, and you shared genetic information which is unique to you, there is a small chance that someone could trace it back to you.
     description: |
       How do we keep your information private?
-
+      <br><br>
       The information you provide for research is kept separate from your name or other identifiers. Therefore, no one outside of the research team can access your name. Those identifiable information are kept in a separate, secure space with limited access. All data is stored on secured, password-protected servers. Your name and other information that could directly identify you (such as email address or medical record number) will never be placed into a public database, and won’t be published with any analysis that takes place.
-
+      <br><br>
       Group Risks
-
+      <br><br>
       Although we will not give researchers your name, we will give them basic information such as your race, ethnic background, and sex. This information helps researchers learn whether the factors that lead to health problems are the same in different groups of people. It is possible that such findings could one day help people of the same race, ethnic group, or sex as you. However, they could also be used to support harmful stereotypes or even promote discrimination.
   - title: Withdrawing
     image: /svgs/withdrawing.svg
@@ -161,17 +157,17 @@ information:
     image: /svgs/confidentiality.svg
     summary: |
       As you take part in this research study, it will be necessary for the research team and others to use and share some of your private protected health information. Protected Health Information (PHI) includes, for example, your name, address, telephone number, medical record number, date of birth, family history, your medical record, and blood draw sample.
-
+      <br><br>
       Your health information, along with results of any tests/procedures collected as part of this research study or regular clinical care, will be used for this study as explained earlier in this consent process. The results of this study could be published or presented at scientific meetings, lectures, etc., but would not include any information that would let others know who you are, unless you give separate permission to do so.
     description: |
       Consistent with the federal Health Insurance Portability and Accountability Act (HIPAA), we are asking your permission to receive, use and share your Protected Health Information.
-
+      <br><br>
       Your authorization for the use of your protected health information for this specific study does not expire.
-
+      <br><br>
       During your participation in this study, you will have access to your medical record and any study information that is part of that record. The investigator is not required to release to you research information that is not part of your medical record.
-
+      <br><br>
       If you are authorizing the release of HIV-related information, you should be aware that the recipient(s) is (are) prohibited from re-disclosing any HIV-related information without your authorization unless permitted to do so under federal or state law.
-
+      <br><br>
       The research team and other authorized members of The Mount Sinai Health System ("Mount Sinai") workforce may use and share your information to ensure that the research meets legal, institutional or accreditation requirements. For example, the School’s Program for the Protection of Human Subjects is responsible for overseeing research on human subjects, and may need to see your information. If you receive any payments for taking part in this study, the Mount Sinai Finance Department may need your name, address, social security number, payment amount, and related information for tax reporting purposes. If the research team uncovers abuse, neglect, or reportable diseases, this information may be disclosed to appropriate authorities.
 quiz:
   introduction:
