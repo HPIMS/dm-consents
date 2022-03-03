@@ -223,3 +223,12 @@ confirm:
 review:
   type: external
   source: /review.html
+
+options:
+  - title: This is the title of the question
+    summary: This is the longer text of what the user agrees to. It should end with a question mark?
+    description: "" # This can be an optional description page to what the user should agree to.
+    required: false # this should be either true or false depending if this option must be accepted by the user
+    accept: <b>Yes</b>, I consent # This will default to "Yes" if not set
+    reject: <b>No</b>, I do not consent  # This will default to "No" if not set
+    popover: To continue, please choose option YES or NO # this will be shown as popover if the user does not select true or false
