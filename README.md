@@ -1,22 +1,23 @@
 # hpims consent sources
 
-### Deployment procedure
-
-1. Create feature branch, e.g. `user123/rename-xyz-to-abc`
-1. Create and merge pull request to merge this feature branch to `dev` (should be the default). Feature branch should be
-   deleted afterwards.
-1. Create and merge pull request to merge `dev` to `sandbox`
-1. Create and merge pull request to merge `sandbox` to `main`
-
-Reasoning behind this:
-
-1. Branches are all aligned after a successful change deployment
-1. No subordinate branch ever has a state higher than a superior branch
-1. Pull requests for transparency and source control
-
-### About consentIds
+## About consentIds
 
 - Each consentId has the structure `hpims-<name>` and the consent contents have to be put in a directory in this
   repository called `<name>`.
 - ConsentIds are not designed to be renamed since they are already identified by this in the database.
 - `hpims` is a static prefix that can not be changed.
+
+## PDF Coordinates
+
+When a new PDF needs to be added, we need to calculate the coordinates of the various checkboxes and inputs to insert
+text at. To do this, go to the [apache pdfbox releases](https://pdfbox.apache.org/download.cgi) and download the latest
+feature version of the pdfbox-app (pdfbox-app-<VERSION>.jar). Then, load the consent PDF with the following command:
+
+```shell script
+java -jar <path/to/pdfbox-app-<VERSION>.jar> PDFDebugger <path/to/consent.pdf>
+```
+
+You can then page through the PDF and hover over spots to find out the coordinates. They are displayed on the bottom
+left.
+
+Notice that pdf page numbers are 0-indexed.
