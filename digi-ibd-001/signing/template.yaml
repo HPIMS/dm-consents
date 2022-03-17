@@ -1,0 +1,31 @@
+---
+consent:
+  version: 1
+  author: ddp
+signing:
+  title: Sign Consent
+  review: Review Consent
+  signature:
+    clear: Clear
+    errors:
+      required: Please write your signature in the space provided
+  firstName:
+    label: First Name
+  lastName:
+    label: Last Name
+  email:
+    label: Email
+    errors:
+      required: Please enter a valid email
+  conditions:
+    - text: I understand this is a legal representation of my signature.
+      required: true
+    - text: My signature confirms that I reviewed the consent and have had any questions answered to my satisfaction. My signature documents my agreement to take part in this study and to the use and disclosure of my health information.
+      required: true
+  submit: Sign
+  cancel:
+    button: Cancel
+    confirmHeader: Are you sure you want to exit the consent process?
+    confirmContent: If you exit, you will need to repeat the consent process before participating in the DigiMe study.
+    confirmCancel: Yes
+    rejectCancel: No
