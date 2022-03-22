@@ -23,7 +23,7 @@ eligibility:
     image: /svgs/eligibility.svg
     content: |
       Before you take a look at the consent, we will need to determine if you meet the qualifications to join this study. Check the statements that apply to you and click next when finished.
-
+      <br><br>
       This determines your eligibility for the study, but we do not record your answers or link them to your name.
     navigation:
       next: Start
@@ -38,7 +38,7 @@ eligibility:
         eligible: true
       - check: Are you currently pregnant?
         eligible: false
-      - check: Do you have cancer or other significant medical problems such as a heart attack, stroke, kidney disease, and infection?
+      - check: Do you currently have cancer or other significant medical problems such as a recent heart attack, recent stroke, significant kidney disease, or an infection?
         eligible: false
       - check: Do you have a pacemaker or defibrillator?
         eligible: false
@@ -63,15 +63,13 @@ information:
     image: /svgs/time.svg
     summary: |
       To participate in this study, we will ask you to:
-
-      • Download and install the eHive app on your phone
-
-      • Connect your wearable device to the eHive app
-
-      • Complete study surveys in the eHive app
-
+      <ul>
+      <li>Download and install the eHive app on your phone</li>
+      <li>Connect your wearable device to the eHive app</li>
+      <li>Complete study surveys in the eHive app</li>
+      </ul>
       Registering for the study and completing the tasks should take about 15 minutes. You can stop and restart where you left off at any time. Your participation in the study will vary each day. Most days it will require only 10-20 seconds to answer survey questions.
-
+      <br><br>
       Every 2 weeks you will be asked to answer slightly longer survey questions. This will take approximately 1 minute of your time.
     description: ""
   - title: Privacy
