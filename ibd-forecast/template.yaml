@@ -38,7 +38,7 @@ eligibility:
         eligible: true
       - check: Are you currently pregnant?
         eligible: false
-      - check: Do you have cancer or other significant medical problems such as a heart attack, stroke, kidney disease, and infection?
+      - check: Do you currently have cancer or other significant medical problems such as a recent heart attack, recent stroke, significant kidney disease, or an infection?
         eligible: false
       - check: Do you have a pacemaker or defibrillator?
         eligible: false
