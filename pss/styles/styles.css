@@ -83,43 +83,17 @@
 .review-next-button {
 }
 
-/** The following style will change how the toggles appear
-  * on the pages that present the user with an option to
-  * accept or reject. For instance, you might want to change
-  * the background color of the toggle when it is accepted or rejected.
-*/
-
-.slider {
-  /* background-color: #ccc; */
+/* Begin: The color of the option and borders when selected */
+[id|="option-accept"]:checked~.option-accept,
+[id|="option-reject"]:checked~.option-reject{
+    border: 2px solid rgb(216, 11, 140);
 }
 
-/* Change the background color here to change the color
- * of the toggle when selected
- */
-
-input:checked + .slider {
-  /* background-color: #2789C2; */
+[id|="option-accept"]:checked~.option-accept .select-dots::before,
+[id|="option-reject"]:checked~.option-reject .select-dots::before {
+    background: rgb(216, 11, 140);
 }
-
-/* Change the background color here to change the color
- * of the toggle when selected
- */
-
-input:focus + .slider {
-  /* box-shadow: 0 0 1px #2789C2; */
-}
-
-/**
-  * The following styles change how the accept and reject
-  * text accompanying the option toggle appears. You might
-  * consider changing the font, font-size, or adding padding
- */
-
-.option-text-reject {
-}
-
-.option-text-accept {
-}
+/* End: The color of the option and borders when selected */
 
 li:not(:last-child) {
    margin-bottom: 5px;
