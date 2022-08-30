@@ -6,23 +6,33 @@ consent:
   lang: en
 fonts:
   default: Helvetica
+options:
+  width: 12.25
+  height: 12.25
+  inputs:
+    - page: 2
+      yes:
+        x: 95.00
+        y: 485.00
+      no:
+        x: 175.00
+        y: 485.00
 signing:
   name:
-    page: 7
-    x: 238
-    y: 570
-    fontSize: 12
-    maxWidth: 152
+    fontSize: 26
+    page: 9
+    x: 62
+    y: 535
+    maxWidth: 270
   date:
-    page: 7
-    x: 418
-    y: 570
-    fontSize: 12
-    # maxWidth: 60
+    fontSize: 26
+    page: 9
+    x: 300
+    y: 535
     format: MM.dd.yyyy
   signature:
-    page: 7
-    x: 58
-    y: 570
-    maxWidth: 153
-    maxHeight: 30
+    page: 9
+    x: 62
+    y: 535
+    maxWidth: 200
+    maxHeight: 80
