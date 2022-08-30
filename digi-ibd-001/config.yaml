@@ -19,20 +19,20 @@ options:
         y: 485.00
 signing:
   name:
-    fontSize: 26
     page: 9
-    x: 62
+    x: 238
     y: 535
-    maxWidth: 270
+    fontSize: 12
+    maxWidth: 152
   date:
-    fontSize: 26
     page: 9
-    x: 300
+    x: 418
     y: 535
+    fontSize: 12
     format: MM.dd.yyyy
   signature:
     page: 9
-    x: 62
+    x: 58
     y: 535
-    maxWidth: 200
-    maxHeight: 80
+    maxWidth: 153
+    maxHeight: 30
