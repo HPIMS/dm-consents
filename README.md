@@ -1,11 +1,12 @@
-# hpims consent sources
+# ehive consent sources
 
 ## About consentIds
 
-- Each consentId has the structure `hpims-<name>` and the consent contents have to be put in a directory in this
-  repository called `<name>`.
+- Each consentId has the structure `hpims-<name>` or `ehive-<name>` and the consent contents have to be put in a
+  directory in this repository called `<name>`.
 - ConsentIds are not designed to be renamed since they are already identified by this in the database.
-- `hpims` is a static prefix that can not be changed.
+- `hpims` / `ehive` are static prefixes that can not be changed and configured in the deployment directory and consent
+  service.
 
 ## PDF Coordinates
 
