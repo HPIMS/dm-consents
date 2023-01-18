@@ -1,0 +1,28 @@
+---
+consent:
+  version: 1
+  author: ddp
+  id: ehive-cramp
+  lang: en
+fonts:
+  default: Helvetica
+signing:
+  name:
+    page: 11
+    x: 238
+    y: 570
+    fontSize: 12
+    maxWidth: 152
+  date:
+    page: 11
+    x: 418
+    y: 570
+    fontSize: 12
+    # maxWidth: 60
+    format: MM.dd.yyyy
+  signature:
+    page: 11
+    x: 58
+    y: 570
+    maxWidth: 153
+    maxHeight: 30

@@ -1,0 +1,38 @@
+---
+consent:
+  version: 1
+  author: ddp
+  id: ehive-cppd-1
+  lang: en
+fonts:
+  default: Helvetica
+options:
+  width: 12.25
+  height: 12.25
+  inputs:
+    - page: 2
+      yes:
+        x: 95.00
+        y: 240.00
+      no:
+        x: 175.00
+        y: 240.00
+signing:
+  name:
+    page: 10
+    x: 238
+    y: 572
+    fontSize: 12
+    maxWidth: 152
+  date:
+    page: 10
+    x: 418
+    y: 572
+    fontSize: 12
+    format: MM.dd.yyyy
+  signature:
+    page: 10
+    x: 58
+    y: 572
+    maxWidth: 153
+    maxHeight: 30

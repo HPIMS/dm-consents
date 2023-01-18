@@ -1,0 +1,27 @@
+---
+consent:
+  version: 1
+  author: ddp
+  id: ra-forecast
+  lang: en
+fonts:
+  default: Helvetica
+signing:
+  name:
+    page: 8
+    x: 238
+    y: 364
+    fontSize: 12
+    maxWidth: 152
+  date:
+    page: 8
+    x: 418
+    y: 364
+    fontSize: 12
+    format: MM.dd.yyyy
+  signature:
+    page: 8
+    x: 58
+    y: 364
+    maxWidth: 153
+    maxHeight: 30
