@@ -19,18 +19,18 @@ options:
         y: 432.00
     - page: 2
       yes:
-        x: 93.00
-        y: 384.00
+        x: 92.00
+        y: 386.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 384.00
+        y: 386.00
     - page: 2
       yes:
-        x: 173.00
-        y: 384.00
+        x: 172.00
+        y: 386.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 384.00
+        y: 386.00
 signing:
   name:
     page: 9
@@ -43,7 +43,7 @@ signing:
     x: 418
     y: 548
     fontSize: 12
-    format: MM.dd.yyyy
+    format: "MM.dd.yyyy    HH:mm O"
   signature:
     page: 9
     x: 58
