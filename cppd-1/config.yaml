@@ -7,8 +7,8 @@ consent:
 fonts:
   default: Helvetica
 options:
-  width: 12.25
-  height: 12.25
+  width: 10.0
+  height: 10.0
   inputs:
     - page: 2
       yes:
@@ -22,14 +22,14 @@ options:
         x: 93.00
         y: 384.00
       no:
-        x: 1000.00
+        x: 1000.00 # Push NO off the page
         y: 384.00
     - page: 2
       yes:
         x: 173.00
         y: 384.00
       no:
-        x: 1000.00
+        x: 1000.00 # Push NO off the page
         y: 384.00
 signing:
   name:
