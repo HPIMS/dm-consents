@@ -43,7 +43,7 @@ signing:
     x: 418
     y: 548
     fontSize: 12
-    format: "MM.dd.yyyy    HH:mm V"
+    format: "MM.dd.yyyy    HH:mm"
   signature:
     page: 9
     x: 58
