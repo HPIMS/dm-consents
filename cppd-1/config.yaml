@@ -12,11 +12,19 @@ options:
   inputs:
     - page: 2
       yes:
-        x: 95.00
-        y: 240.00
+        x: 222.00
+        y: 432.00
       no:
         x: 175.00
         y: 240.00
+    - page: 2
+      yes:
+        x: 96.00
+        y: 388.00
+    - page: 2
+      yes:
+        x: 176.00
+        y: 388.00
 signing:
   name:
     page: 10
