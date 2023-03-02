@@ -19,34 +19,34 @@ options:
         y: 432.00
     - page: 2
       yes:
-        x: 96.00
-        y: 390.00
+        x: 93.00
+        y: 384.00
       no:
         x: 1000.00
-        y: 390.00
+        y: 384.00
     - page: 2
       yes:
-        x: 1000.00
-        y: 390.00
+        x: 173.00
+        y: 384.00
       no:
-        x: 176.00
-        y: 390.00
+        x: 1000.00
+        y: 384.00
 signing:
   name:
     page: 9
     x: 238
-    y: 572
+    y: 548
     fontSize: 12
     maxWidth: 152
   date:
     page: 9
     x: 418
-    y: 572
+    y: 548
     fontSize: 12
     format: MM.dd.yyyy
   signature:
     page: 9
     x: 58
-    y: 572
+    y: 548
     maxWidth: 153
     maxHeight: 30
