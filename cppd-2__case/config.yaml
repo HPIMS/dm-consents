@@ -13,25 +13,25 @@ options:
     - page: 2
       yes:
         x: 95.00
-        y: 170.00
+        y: 485.00
       no:
         x: 175.00
-        y: 170.00
+        y: 485.00
 signing:
   name:
-    page: 10
+    page: 9
     x: 238
     y: 572
     fontSize: 12
     maxWidth: 152
   date:
-    page: 10
+    page: 9
     x: 418
     y: 572
     fontSize: 12
     format: MM.dd.yyyy
   signature:
-    page: 10
+    page: 9
     x: 58
     y: 572
     maxWidth: 153
