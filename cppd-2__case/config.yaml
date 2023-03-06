@@ -7,32 +7,46 @@ consent:
 fonts:
   default: Helvetica
 options:
-  width: 12.25
-  height: 12.25
+  width: 10.0
+  height: 10.0
   inputs:
     - page: 2
       yes:
-        x: 95.00
-        y: 170.00
+        x: 224.00
+        y: 470.00
       no:
-        x: 175.00
-        y: 170.00
+        x: 300.00
+        y: 470.00
+    - page: 2
+      yes:
+        x: 92.00
+        y: 425.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 425.00
+    - page: 2
+      yes:
+        x: 172.00
+        y: 425.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 425.00
 signing:
   name:
-    page: 10
+    page: 9
     x: 238
-    y: 572
+    y: 548
     fontSize: 12
     maxWidth: 152
   date:
-    page: 10
+    page: 9
     x: 418
-    y: 572
+    y: 548
     fontSize: 12
-    format: MM.dd.yyyy
+    format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
-    page: 10
+    page: 9
     x: 58
-    y: 572
+    y: 548
     maxWidth: 153
     maxHeight: 30
