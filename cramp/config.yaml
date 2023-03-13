@@ -6,23 +6,66 @@ consent:
   lang: en
 fonts:
   default: Helvetica
+options:
+  width: 10.0
+  height: 10.0
+  inputs:
+    # Consent to Recontacting
+    - page: 4
+      yes:
+        x: 224.00
+        y: 330.00
+      no:
+        x: 300.00
+        y: 330.00
+    # Contact by Email
+    - page: 4
+      yes:
+        x: 92.00
+        y: 282.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 282.00
+    # Contact by Phone
+    - page: 4
+      yes:
+        x: 172.00
+        y: 282.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 282.00
+    # Contact by Letter
+    - page: 4
+      yes:
+        x: 248.00
+        y: 282.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 282.00
+      # Contact by Text
+    - page: 4
+      yes:
+        x: 332.00
+        y: 282.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 282.00
 signing:
   name:
     page: 11
     x: 238
-    y: 570
+    y: 558
     fontSize: 12
     maxWidth: 152
   date:
     page: 11
     x: 418
-    y: 570
+    y: 558
     fontSize: 12
-    # maxWidth: 60
-    format: MM.dd.yyyy
+    format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
     page: 11
     x: 58
-    y: 570
+    y: 558
     maxWidth: 153
     maxHeight: 30
