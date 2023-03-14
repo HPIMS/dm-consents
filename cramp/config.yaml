@@ -21,7 +21,7 @@ options:
     # Contact by Email
     - page: 4
       yes:
-        x: 93.00
+        x: 92.00
         y: 284.00
       no:
         x: 1000.00 # Push NO off the page
@@ -29,7 +29,7 @@ options:
     # Contact by Phone
     - page: 4
       yes:
-        x: 173.00
+        x: 172.00
         y: 284.00
       no:
         x: 1000.00 # Push NO off the page
@@ -37,7 +37,7 @@ options:
     # Contact by Letter
     - page: 4
       yes:
-        x: 248.00
+        x: 249.00
         y: 284.00
       no:
         x: 1000.00 # Push NO off the page
