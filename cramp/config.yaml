@@ -37,7 +37,7 @@ options:
     # Contact by Letter
     - page: 4
       yes:
-        x: 248.75
+        x: 249.25
         y: 284.00
       no:
         x: 1000.00 # Push NO off the page
@@ -45,7 +45,7 @@ options:
       # Contact by Text
     - page: 4
       yes:
-        x: 331.75
+        x: 332.25
         y: 284.00
       no:
         x: 1000.00 # Push NO off the page
