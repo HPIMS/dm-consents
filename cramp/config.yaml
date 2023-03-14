@@ -21,35 +21,35 @@ options:
     # Contact by Email
     - page: 4
       yes:
-        x: 92.00
-        y: 282.00
+        x: 93.00
+        y: 284.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 282.00
+        y: 284.00
     # Contact by Phone
     - page: 4
       yes:
-        x: 172.00
-        y: 282.00
+        x: 173.00
+        y: 284.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 282.00
+        y: 284.00
     # Contact by Letter
     - page: 4
       yes:
         x: 248.00
-        y: 282.00
+        y: 284.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 282.00
+        y: 284.00
       # Contact by Text
     - page: 4
       yes:
         x: 332.00
-        y: 282.00
+        y: 284.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 282.00
+        y: 284.00
 signing:
   name:
     page: 11
