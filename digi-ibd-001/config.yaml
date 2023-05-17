@@ -21,18 +21,18 @@ signing:
   name:
     page: 10
     x: 238
-    y: 572
+    y: 574
     fontSize: 12
     maxWidth: 152
   date:
     page: 10
     x: 418
-    y: 572
+    y: 574
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
     page: 10
     x: 58
-    y: 572
+    y: 574
     maxWidth: 153
     maxHeight: 30
