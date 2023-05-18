@@ -2,7 +2,7 @@
 consent:
   version: 1
   author: ddp
-  id: ehive-cramp
+  id: ehive-playground
   lang: en
 fonts:
   default: Helvetica
@@ -11,7 +11,7 @@ options:
   height: 10.0
   inputs:
     # Consent to Recontacting
-    - page: 4
+    - page: 1
       yes:
         x: 224.00
         y: 330.00
@@ -19,7 +19,7 @@ options:
         x: 300.00
         y: 330.00
     # Contact by Email
-    - page: 4
+    - page: 1
       yes:
         x: 92.25
         y: 284.00
@@ -27,7 +27,7 @@ options:
         x: 1000.00 # Push NO off the page
         y: 284.00
     # Contact by Phone
-    - page: 4
+    - page: 1
       yes:
         x: 171.75
         y: 284.00
@@ -35,7 +35,7 @@ options:
         x: 1000.00 # Push NO off the page
         y: 284.00
     # Contact by Letter
-    - page: 4
+    - page: 1
       yes:
         x: 249.25
         y: 284.00
@@ -43,7 +43,7 @@ options:
         x: 1000.00 # Push NO off the page
         y: 284.00
       # Contact by Text
-    - page: 4
+    - page: 1
       yes:
         x: 332.50
         y: 284.00
@@ -52,19 +52,19 @@ options:
         y: 284.00
 signing:
   name:
-    page: 11
+    page: 1
     x: 238
     y: 558
     fontSize: 12
     maxWidth: 152
   date:
-    page: 11
+    page: 1
     x: 418
     y: 558
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
-    page: 11
+    page: 1
     x: 58
     y: 558
     maxWidth: 153
