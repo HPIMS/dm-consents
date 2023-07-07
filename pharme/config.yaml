@@ -1,0 +1,55 @@
+---
+consent:
+  version: 1
+  author: ddp
+  id: ehive-pharme
+  lang: en
+fonts:
+  default: Helvetica
+options:
+  width: 10.0
+  height: 10.0
+  inputs:
+    # Consent to Recontacting
+    - page: 3
+      yes:
+        x: 224.00
+        y: 240.00
+      no:
+        x: 300.00
+        y: 240.00
+    # Contact by Email
+    - page: 3
+      yes:
+        x: 92.25
+        y: 192.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 192.00
+    # Contact by Phone
+    - page: 3
+      yes:
+        x: 171.75
+        y: 192.00
+      no:
+        x: 1000.00 # Push NO off the page
+        y: 192.00
+signing:
+  name:
+    page: 10
+    x: 238
+    y: 544
+    fontSize: 12
+    maxWidth: 152
+  date:
+    page: 10
+    x: 418
+    y: 544
+    fontSize: 12
+    format: "MM.dd.yyyy   HH:mm 'UTC'"
+  signature:
+    page: 10
+    x: 58
+    y: 544
+    maxWidth: 153
+    maxHeight: 30
