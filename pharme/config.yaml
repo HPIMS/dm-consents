@@ -22,18 +22,18 @@ options:
     - page: 3
       yes:
         x: 92.25
-        y: 192.00
+        y: 194.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 192.00
+        y: 194.00
     # Contact by Phone
     - page: 3
       yes:
         x: 171.75
-        y: 192.00
+        y: 194.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 192.00
+        y: 194.00
 signing:
   name:
     page: 10
