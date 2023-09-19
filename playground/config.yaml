@@ -63,9 +63,3 @@ signing:
     y: 558
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
-  signature:
-    page: 1
-    x: 58
-    y: 558
-    maxWidth: 153
-    maxHeight: 30
