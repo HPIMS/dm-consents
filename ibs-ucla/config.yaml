@@ -9,14 +9,14 @@ fonts:
 signing:
   name:
     page: 1
-    x: 74
-    y: 604
+    x: 72
+    y: 600
     fontSize: 12
     maxWidth: 330
   date:
     page: 1
     x: 422
-    y: 100
+    y: 600
     fontSize: 12
     format: "MM.dd.yyyy HH:mm 'UTC'"
   signature:
