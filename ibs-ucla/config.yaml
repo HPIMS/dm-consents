@@ -1,0 +1,27 @@
+---
+consent:
+  version: 1
+  author: ddp
+  id: ehive-ibs-ucla
+  lang: en
+fonts:
+  default: Helvetica
+signing:
+  name:
+    page: 1
+    x: 72
+    y: 600
+    fontSize: 12
+    maxWidth: 330
+  date:
+    page: 1
+    x: 422
+    y: 600
+    fontSize: 12
+    format: "MM.dd.yyyy HH:mm 'UTC'"
+  signature:
+    page: 1
+    x: 1000.00 # Push signature off the page
+    y: 1000.00 # Push signature off the page
+    maxWidth: 1
+    maxHeight: 1

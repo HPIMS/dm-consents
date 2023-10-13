@@ -54,18 +54,18 @@ signing:
   name:
     page: 1
     x: 238
-    y: 558
+    y: 100
     fontSize: 12
     maxWidth: 152
   date:
     page: 1
     x: 418
-    y: 558
+    y: 100
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
-    page: 1
-    x: 58
-    y: 558
-    maxWidth: 153
-    maxHeight: 30
+     page: 1
+     x: 58
+     y: 100
+     maxWidth: 153
+     maxHeight: 30
