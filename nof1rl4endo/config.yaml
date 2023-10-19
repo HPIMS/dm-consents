@@ -10,46 +10,54 @@ fonts:
 #   width: 10.0
 #   height: 10.0
 #   inputs:
-#     # Consent to Recontacting
+#     # User Feedback Interview
 #     - page: 3
 #       yes:
 #         x: 224.00
-#         y: 240.00
+#         y: 160.00
 #       no:
 #         x: 300.00
-#         y: 240.00
-#     # Contact by Email
-#     - page: 3
+#         y: 160.00
+#     # Future Contact
+#     - page: 4
 #       yes:
-#         x: 92.25
-#         y: 194.00
+#         x: 224.00
+#         y: 532.00
+#       no:
+#         x: 300.00
+#         y: 532.00
+#     # Future Contact -- Email
+#     - page: 4
+#       yes:
+#         x: 92.00
+#         y: 486.00
 #       no:
 #         x: 1000.00 # Push NO off the page
-#         y: 194.00
-#     # Contact by Phone
-#     - page: 3
+#         y: 486.00
+#     # Future Contact -- Phone
+#     - page: 4
 #       yes:
-#         x: 171.75
-#         y: 194.00
+#         x: 172.00
+#         y: 486.00
 #       no:
 #         x: 1000.00 # Push NO off the page
-#         y: 194.00
+#         y: 486.00
 signing:
   name:
-    page: 10
+    page: 12
     x: 238
-    y: 544
+    y: 546
     fontSize: 12
     maxWidth: 152
   date:
-    page: 10
+    page: 12
     x: 418
-    y: 544
+    y: 546
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
-    page: 10
+    page: 12
     x: 58
-    y: 544
+    y: 546
     maxWidth: 153
     maxHeight: 30
