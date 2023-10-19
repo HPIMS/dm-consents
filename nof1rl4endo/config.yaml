@@ -44,19 +44,19 @@ options:
         y: 486.00
 signing:
   name:
-    page: 12
+    page: 11
     x: 238
     y: 546
     fontSize: 12
     maxWidth: 152
   date:
-    page: 12
+    page: 11
     x: 418
     y: 546
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
-    page: 12
+    page: 11
     x: 58
     y: 546
     maxWidth: 153
