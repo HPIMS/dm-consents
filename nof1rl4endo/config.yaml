@@ -6,42 +6,42 @@ consent:
   lang: en
 fonts:
   default: Helvetica
-options:
-  width: 10.0
-  height: 10.0
-  inputs:
-    # User Feedback Interview
-    - page: 3
-      yes:
-        x: 224.00
-        y: 160.00
-      no:
-        x: 300.00
-        y: 160.00
-    # Future Contact
-    - page: 4
-      yes:
-        x: 224.00
-        y: 532.00
-      no:
-        x: 300.00
-        y: 532.00
-    # Future Contact -- Email
-    - page: 4
-      yes:
-        x: 92.00
-        y: 486.00
-      no:
-        x: 1000.00 # Push NO off the page
-        y: 486.00
-    # Future Contact -- Phone
-    - page: 4
-      yes:
-        x: 172.00
-        y: 486.00
-      no:
-        x: 1000.00 # Push NO off the page
-        y: 486.00
+# options:
+#   width: 10.0
+#   height: 10.0
+#   inputs:
+#     # User Feedback Interview
+#     - page: 3
+#       yes:
+#         x: 224.00
+#         y: 160.00
+#       no:
+#         x: 300.00
+#         y: 160.00
+#     # Future Contact
+#     - page: 4
+#       yes:
+#         x: 224.00
+#         y: 532.00
+#       no:
+#         x: 300.00
+#         y: 532.00
+#     # Future Contact -- Email
+#     - page: 4
+#       yes:
+#         x: 92.00
+#         y: 486.00
+#       no:
+#         x: 1000.00 # Push NO off the page
+#         y: 486.00
+#     # Future Contact -- Phone
+#     - page: 4
+#       yes:
+#         x: 172.00
+#         y: 486.00
+#       no:
+#         x: 1000.00 # Push NO off the page
+#         y: 486.00
 signing:
   name:
     page: 11
