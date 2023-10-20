@@ -30,34 +30,34 @@ options:
     - page: 4
       yes:
         x: 92.00
-        y: 486.00
+        y: 492.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 486.00
+        y: 492.00
     # Future Contact -- Phone
     - page: 4
       yes:
         x: 172.00
-        y: 486.00
+        y: 492.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 486.00
+        y: 492.00
 signing:
   name:
     page: 12
     x: 238
-    y: 546
+    y: 542
     fontSize: 12
     maxWidth: 152
   date:
     page: 12
     x: 418
-    y: 546
+    y: 542
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
     page: 12
     x: 58
-    y: 546
+    y: 542
     maxWidth: 153
     maxHeight: 30
