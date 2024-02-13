@@ -9,7 +9,7 @@ fonts:
 signing:
   name:
     page: 1
-    x: 56
+    x: 54
     y: 652
     fontSize: 12
     maxWidth: 330
