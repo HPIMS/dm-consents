@@ -15,7 +15,7 @@ signing:
     maxWidth: 330
   date:
     page: 1
-    x: 394
+    x: 390
     y: 652
     fontSize: 12
     format: "MM.dd.yyyy HH:mm 'UTC'"
