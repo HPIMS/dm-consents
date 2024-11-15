@@ -12,7 +12,7 @@ async function processConsents(distPath) {
 
     await fs.promises.copyFile(
       path.join(consentPath, "consent.pdf"),
-      path.join(distPath, `${consent}.pdf`)
+      path.join(distPath, `${consent}.unsigned.pdf`)
     );
 
     const configData = await fs.promises.readFile(
