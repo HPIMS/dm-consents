@@ -1,2 +1,19 @@
 .DS_STORE
-.idea
+dist
+
+# Yarn
+.pnp.*
+.pnp.js
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
