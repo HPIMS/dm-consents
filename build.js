@@ -48,7 +48,7 @@ function transformSigningConfig(data) {
     studyKey: key,
     options: (options?.inputs || []).map((input, i) => ({
       type: "yesno",
-      key: `key-${i}`,
+      key: `key-${i + 1}`,
       page: input.page,
       boxes: {
         yes: {
