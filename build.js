@@ -8,6 +8,11 @@ async function processConsents(distPath) {
   const consents = await fs.promises.readdir(configDirectory);
 
   for (const consent of consents) {
+    // Skip .DS_Store files
+    if (consent === ".DS_Store") {
+      continue;
+    }
+
     const consentPath = path.join(configDirectory, consent);
 
     await fs.promises.copyFile(
