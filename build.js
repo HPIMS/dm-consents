@@ -34,8 +34,6 @@ async function processConsents(distPath) {
 }
 
 function transformSigningConfig(data) {
-  const pageHeight = 792; // px height of standard pdf doc
-
   const { consent, signing, options } = data;
   const key = consent.id.replace(/ehive-|hpims-/, "");
   const { width: optWidth, height: optHeight } = options || {};
@@ -53,13 +51,13 @@ function transformSigningConfig(data) {
       boxes: {
         yes: {
           x: input.yes.x,
-          y: pageHeight - input.yes.y - optHeight,
+          y: input.yes.y,
           width: optWidth,
           height: optHeight,
         },
         no: {
           x: input.no.x,
-          y: pageHeight - input.no.y - optHeight,
+          y: input.no.y,
           width: optWidth,
           height: optHeight,
         },
@@ -82,7 +80,7 @@ function transformSigningConfig(data) {
       page: signing.name.page,
       box: {
         x: signing.name.x,
-        y: pageHeight - signing.name.y - signingFieldHeight,
+        y: signing.name.y,
         width: signing.name.maxWidth || signingFieldWidth,
         height: signingFieldHeight,
       },
@@ -96,7 +94,7 @@ function transformSigningConfig(data) {
       page: signing.date.page,
       box: {
         x: signing.date.x,
-        y: pageHeight - signing.date.y - signingFieldHeight,
+        y: signing.date.y,
         width: signing.name.maxWidth || signingFieldWidth,
         height: signingFieldHeight,
       },
@@ -109,7 +107,7 @@ function transformSigningConfig(data) {
       page: signing.name.page,
       box: {
         x: signing.name.x,
-        y: pageHeight - signing.name.y - signingFieldHeight,
+        y: signing.name.y,
         width: signing.name.maxWidth || signingFieldWidth,
         height: signingFieldHeight,
       },
