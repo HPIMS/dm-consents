@@ -13,40 +13,40 @@ options:
     - page: 2
       yes:
         x: 224.00
-        y: 458.00
+        y: 380.00
       no:
         x: 300.00
-        y: 458.00
+        y: 380.00
     - page: 2
       yes:
         x: 92.00
-        y: 412.00
+        y: 333.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 412.00
+        y: 333.00
     - page: 2
       yes:
         x: 172.00
-        y: 412.00
+        y: 333.00
       no:
         x: 1000.00 # Push NO off the page
-        y: 412.00
+        y: 333.00
 signing:
   name:
-    page: 10
+    page: 9
     x: 238
-    y: 548
+    y: 469
     fontSize: 12
     maxWidth: 152
   date:
-    page: 10
+    page: 9
     x: 418
-    y: 548
+    y: 469
     fontSize: 12
     format: "MM.dd.yyyy   HH:mm 'UTC'"
   signature:
-    page: 10
+    page: 9
     x: 58
-    y: 548
+    y: 469
     maxWidth: 153
     maxHeight: 30

@@ -79,9 +79,9 @@ function transformSigningConfig(data) {
       field: "signature",
       page: signing.name.page,
       box: {
-        x: signing.name.x,
-        y: signing.name.y,
-        width: signing.name.maxWidth || signingFieldWidth,
+        x: signing.signature.x,
+        y: signing.signature.y,
+        width: signing.signature.maxWidth || signingFieldWidth,
         height: signingFieldHeight,
       },
     });
